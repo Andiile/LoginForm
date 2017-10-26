@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Log\Login1\Login1\bin\Debug\Login1.exe.config
+C:\Users\user\Desktop\Log\Login1\Login1\bin\Debug\Login1.exe
+C:\Users\user\Desktop\Log\Login1\Login1\bin\Debug\Login1.pdb
+C:\Users\user\Desktop\Log\Login1\Login1\obj\Debug\Login1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Log\Login1\Login1\obj\Debug\Login1.exe
+C:\Users\user\Desktop\Log\Login1\Login1\obj\Debug\Login1.pdb
